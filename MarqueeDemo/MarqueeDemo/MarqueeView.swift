@@ -32,7 +32,7 @@ class MarqueeView: UIView {
 extension MarqueeView {
     
     func bindData(){
-        
+        print(11312)
     }
     /// 定时器
     private func changePosition(){
